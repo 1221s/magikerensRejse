@@ -1,0 +1,282 @@
+# Translation of Plugins - WP Ultimate Exporter - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Ultimate Exporter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-22 21:14:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Ultimate Exporter - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html??utm_source=wordpress&utm_medium=plugin&utm_campaign=free_exporter"
+msgstr "https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html??utm_source=wordpress&utm_medium=plugin&utm_campaign=free_exporter"
+
+#. Author of the plugin/theme
+msgid "smackcoders"
+msgstr "smackcoders"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html?utm_source=wordpress&utm_medium=plugin&utm_campaign=free_exporter"
+msgstr "https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html?utm_source=wordpress&utm_medium=plugin&utm_campaign=free_exporter"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Ultimate Exporter"
+msgstr "WP Ultimate Exporter"
+
+#: admin/views/form-export-data.php:195
+msgid "--Select--"
+msgstr "--Sélectionner--"
+
+#: admin/views/form-export-data.php:283 admin/views/form-export-data.php:303
+msgid "All"
+msgstr "Tous"
+
+#: admin/views/form-export-data.php:300
+msgid "Authors"
+msgstr "Auteurs"
+
+#: admin/views/form-export-data.php:407
+msgid "Back"
+msgstr "Retour"
+
+#. Description of the plugin/theme
+msgid "Backup tool to export all your WordPress data as CSV file. eCommerce data of WooCommerce, MarketPress, eCommerce, eShop, Custom Post and Custom field informations along with default WordPress modules."
+msgstr "Outil de sauvegarde pour exporter toutes vos données WordPress en tant que fichier CSV. Les données e-commerce de WooCommerce, MarketPress, eCommerce, eShop, publication personnalisée et informations sur le champ personnalisé avec les modules WordPress par défaut."
+
+#: admin/views/form-support-view.php:26
+msgid "Bug Reporting"
+msgstr "Signalement de bogue"
+
+#: admin/views/form-support-view.php:17 includes/class-uci-install.php:246
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: admin/views/form-export-data.php:193
+msgid "Custom Post"
+msgstr "Publication personnalisée"
+
+#: admin/views/form-export-data.php:243
+msgid "Delimiters"
+msgstr "Délimiteurs"
+
+#: includes/class-uci-install.php:270
+msgid "Download and replace the latest version of"
+msgstr "Télécharger et remplacer la dernière version de"
+
+#: admin/views/form-export-data.php:288
+msgid "Draft"
+msgstr "Brouillon"
+
+#: admin/views/form-support-view.php:20 admin/views/form-support-view.php:46
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/views/form-export-data.php:270
+msgid "End To"
+msgstr "Fin le"
+
+#: admin/class-uci-admin.php:66 admin/class-uci-admin.php:111
+#: admin/views/form-export-data.php:408
+msgid "Export"
+msgstr "Exporter"
+
+#: admin/views/form-export-data.php:234
+msgid "Export File Name:"
+msgstr "Nom du fichier d’exportation :"
+
+#: admin/views/form-export-data.php:313
+msgid "Export data based on specific inclusions"
+msgstr "Exporter des données en fonction d’inclusions spécifiques"
+
+#: admin/views/form-export-data.php:297
+msgid "Export data by specific authors"
+msgstr "Exporter des données par auteurs spécifiques"
+
+#: admin/views/form-export-data.php:267
+msgid "Export data for the specific period"
+msgstr "Exporter les données pour la période spécifique"
+
+#: admin/views/form-export-data.php:239
+msgid "Export data with auto delimiters"
+msgstr "Exporter des données avec des délimiteurs auto"
+
+#: admin/views/form-export-data.php:278
+msgid "Export data with the specific status"
+msgstr "Exporter les données avec un état spécifique"
+
+#: admin/views/form-support-view.php:27
+msgid "Feature Enhancement"
+msgstr "Amélioration de fonctionnalité"
+
+#: includes/class-uci-install.php:300
+msgid "If you love WP Ultimate CSV Importer show us you care with a 5-star review on"
+msgstr "Si vous aimez WP Ultimate CSV Importer, montrez-nous que vous vous en souciez avec une évaluation de 5 étoiles sur"
+
+#: includes/class-uci-install.php:260
+msgid "Important Upgrade Notice:"
+msgstr "Notification de mise à niveau importante :"
+
+#: admin/views/form-support-view.php:14
+msgid "Love WP Ultimate CSV Importer, Give a 5 star review on"
+msgstr "Aimez WP Ultimate CSV Importer, donnez une évaluation de 5 étoiles sur"
+
+#: admin/views/form-support-view.php:30
+msgid "Message"
+msgstr "Message"
+
+#: admin/views/form-support-view.php:44
+msgid "News Letter Subscription"
+msgstr "Abonnement à la lettre d’information"
+
+#: admin/views/form-export-data.php:378
+msgid "No fields Found!"
+msgstr "Aucun champ trouvé !"
+
+#: admin/views/form-support-view.php:61
+msgid "Note"
+msgstr "Remarque"
+
+#: includes/class-uci-install.php:282 includes/class-uci-install.php:288
+msgid "Notice:"
+msgstr "Notification :"
+
+#: admin/views/form-export-data.php:252
+msgid "Other Delimiters"
+msgstr "Autres délimiteurs"
+
+#: admin/views/form-export-data.php:189
+msgid "Page"
+msgstr "Page"
+
+#: admin/views/form-export-data.php:289
+msgid "Pending"
+msgstr "En attente"
+
+#: admin/views/form-support-view.php:63
+msgid "Please draft a mail to support@smackcoders.com. If you doesn't get any acknowledgement within an hour!"
+msgstr "Veuillez rédiger un e-mail à support@smackcoders.com si vous n’obtenez aucun accusé de réception dans une heure !"
+
+#: includes/class-uci-install.php:288
+msgid "Please install CURL & enable it in your server. "
+msgstr "Veuillez installer CURL et l’activer sur votre serveur. "
+
+#: admin/views/form-export-data.php:186
+msgid "Post"
+msgstr "Article"
+
+#: admin/views/form-export-data.php:286
+msgid "Private"
+msgstr "Privé"
+
+#: admin/views/form-export-data.php:211
+msgid "Proceed"
+msgstr "Procéder"
+
+#: admin/views/form-export-data.php:287
+msgid "Protected"
+msgstr "Protégé"
+
+#: admin/views/form-export-data.php:284
+msgid "Publish"
+msgstr "Publier"
+
+#: admin/views/form-export-data.php:184
+msgid "Select your module to export the data"
+msgstr "Sélectionnez votre module pour exporter les données"
+
+#: admin/views/form-support-view.php:38
+msgid "Send"
+msgstr "Envoyer"
+
+#: admin/views/form-export-data.php:269
+msgid "Start From"
+msgstr "À partir de"
+
+#: admin/views/form-export-data.php:281
+msgid "Status"
+msgstr "États"
+
+#: admin/views/form-export-data.php:285
+msgid "Sticky"
+msgstr "Épinglé"
+
+#: admin/views/form-support-view.php:55
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: admin/views/form-support-view.php:62
+msgid "Subscribe to Smackcoders Mailing list (a few messages a year)"
+msgstr "Abonnez-vous à la liste de diffusion Smackcoders (quelques messages par an)"
+
+#: admin/class-uci-admin.php:67 admin/class-uci-admin.php:112
+#: includes/class-uci-install.php:246
+msgid "Support"
+msgstr "Support"
+
+#: admin/views/form-support-view.php:24
+msgid "Support type"
+msgstr "Type de support"
+
+#: admin/views/form-export-data.php:232
+msgid "To export data based on the filters"
+msgstr "Pour exporter des données en fonction des filtres"
+
+#: includes/class-uci-install.php:282
+msgid "To populate Featured images, Please make sure that CRON is enabled in your server. "
+msgstr "Pour remplir les images mises en avant, veuillez vous assure que CRON est activé sur votre serveur. "
+
+#: includes/class-uci-install.php:270
+msgid "Upgrade Notice:"
+msgstr "Avis de mise à niveau :"
+
+#: includes/class-uci-install.php:270
+msgid "for 10x faster import performance with easy user interface."
+msgstr "pour des performances d'importation 10x plus rapides avec une interface utilisateur facile."
+
+#: index.php:232
+msgid "no of Auto drafted Post/Page has been removed."
+msgstr "aucun des articles/pages en brouillon n'a été supprimé."
+
+#: index.php:235
+msgid "no of Comments in trash has been removed."
+msgstr "aucun des commentaires en corbeille n'a été supprimé."
+
+#: index.php:229
+msgid "no of Orphaned Post/Page meta has been removed."
+msgstr "aucune des méta d’article/page orpheline n’a été supprimée."
+
+#: index.php:237
+msgid "no of Pingback comments has been removed."
+msgstr "aucun des pings de commentaire n'a été supprimé."
+
+#: index.php:233
+msgid "no of Post/Page in trash has been removed."
+msgstr "aucun des articles/pages en corbeille n'a été supprimé."
+
+#: index.php:231
+msgid "no of Post/Page revisions has been removed."
+msgstr "aucune des révisions ’article/page n’a été supprimée."
+
+#: index.php:234
+msgid "no of Spam comments has been removed."
+msgstr "aucun des commentaires indésirables n'a été supprimé."
+
+#: index.php:238
+msgid "no of Trackback comments has been removed."
+msgstr "aucun des rétroliens de commentaire n'a été supprimé."
+
+#: index.php:236
+msgid "no of Unapproved comments has been removed."
+msgstr "aucun des commentaires non approuvés n'a été supprimé."
+
+#: index.php:230
+msgid "no of Unassigned tags has been removed."
+msgstr "aucun des étiquettes non attribuées n'a été supprimée."
+
+#: admin/views/form-support-view.php:14 includes/class-uci-install.php:300
+msgid "wordpress.org!"
+msgstr "wordpress.org !"

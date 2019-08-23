@@ -1,0 +1,739 @@
+# Translation of Plugins - All-in-One WP Migration - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - All-in-One WP Migration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-03 08:18:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - All-in-One WP Migration - Stable (latest release)\n"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:124
+#: lib/view/backups/index.php:64
+msgid "%s ago"
+msgstr "%s zpět"
+
+#: lib/controller/class-ai1wm-main-controller.php:847
+msgid "Your purchase ID is invalid, please <a href=\"mailto:support@servmask.com\">contact us</a>"
+msgstr "ID nákupu je neplatné, <a href=\"mailto:support@servmask.com\">kontaktujte nás</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:806
+msgid "Are you sure you want to delete this file?"
+msgstr "Opravdu chcete smazat tento soubor?"
+
+#: lib/controller/class-ai1wm-main-controller.php:703
+msgid "We are sorry, there seems to be a problem while uploading your file. Follow <a href=\"https://www.youtube.com/watch?v=mRp7qTFYKgs\" target=\"_blank\">this guide</a> to resolve it."
+msgstr "Vypadá to na problém v průběhu nahrávání souboru. Následujte <a href=\"https://www.youtube.com/watch?v=mRp7qTFYKgs\" target=\"_blank\">tohoto průvodce</a> pro řešení."
+
+#: lib/controller/class-ai1wm-main-controller.php:698
+#: lib/controller/class-ai1wm-main-controller.php:801
+msgid "Please do not close this browser window or your import will fail"
+msgstr "Nezavírejte okno prohlížeče nebo import bude neúspěšný"
+
+#: lib/controller/class-ai1wm-main-controller.php:697
+#: lib/controller/class-ai1wm-main-controller.php:800
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: lib/controller/class-ai1wm-main-controller.php:696
+#: lib/controller/class-ai1wm-main-controller.php:799
+msgid "Proceed"
+msgstr "Spustit"
+
+#: lib/controller/class-ai1wm-main-controller.php:695
+#: lib/controller/class-ai1wm-main-controller.php:798
+msgid "Stop import"
+msgstr "Zastavit import"
+
+#: lib/controller/class-ai1wm-main-controller.php:693
+#: lib/controller/class-ai1wm-main-controller.php:796
+msgid "Please wait, stopping the import..."
+msgstr "Čekej, zastavuji import..."
+
+#: lib/controller/class-ai1wm-main-controller.php:692
+#: lib/controller/class-ai1wm-main-controller.php:795
+msgid "Unable to stop the import. Refresh the page and try again"
+msgstr "Nemohu zastavit import. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:691
+#: lib/controller/class-ai1wm-main-controller.php:794
+msgid "Unable to prepare blogs on import. Refresh the page and try again"
+msgstr "Nemohu připravit blogy k importu. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:690
+#: lib/controller/class-ai1wm-main-controller.php:793
+msgid "Unable to confirm the import. Refresh the page and try again"
+msgstr "Nemohu potvrdit import. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:689
+#: lib/controller/class-ai1wm-main-controller.php:792
+msgid "Unable to start the import. Refresh the page and try again"
+msgstr "Nemohu spustit import. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:686
+#: lib/controller/class-ai1wm-main-controller.php:789
+msgid "You are about to stop importing your website, are you sure?"
+msgstr "Opravdu chcete zastavit import webové stránky?"
+
+#: lib/controller/class-ai1wm-main-controller.php:608
+#: lib/controller/class-ai1wm-main-controller.php:702
+#: lib/controller/class-ai1wm-main-controller.php:805
+msgid "Thanks for submitting your request!"
+msgstr "Děkujeme za zaslání požadavku!"
+
+#: lib/controller/class-ai1wm-main-controller.php:607
+#: lib/controller/class-ai1wm-main-controller.php:701
+#: lib/controller/class-ai1wm-main-controller.php:804
+msgid "Thanks for submitting your feedback!"
+msgstr "Děkujeme za zaslání zpětné vazby!"
+
+#: lib/controller/class-ai1wm-main-controller.php:606
+#: lib/controller/class-ai1wm-main-controller.php:700
+#: lib/controller/class-ai1wm-main-controller.php:803
+msgid "How may we help you?"
+msgstr "Jak můžeme pomoc?"
+
+#: lib/controller/class-ai1wm-main-controller.php:605
+#: lib/controller/class-ai1wm-main-controller.php:699
+#: lib/controller/class-ai1wm-main-controller.php:802
+msgid "Leave plugin developers any feedback here"
+msgstr "Zanechte zpětnou vazbu vývojářům pluginu"
+
+#: lib/controller/class-ai1wm-main-controller.php:604
+msgid "Stop export"
+msgstr "Zastavit export"
+
+#: lib/controller/class-ai1wm-main-controller.php:603
+#: lib/controller/class-ai1wm-main-controller.php:694
+#: lib/controller/class-ai1wm-main-controller.php:797
+msgid "Close"
+msgstr "Zavřít"
+
+#: lib/controller/class-ai1wm-main-controller.php:602
+msgid "Please wait, stopping the export..."
+msgstr "Čekej, zastavuji export..."
+
+#: lib/controller/class-ai1wm-main-controller.php:601
+msgid "Unable to stop the export. Refresh the page and try again"
+msgstr "Nemohu zastavit export. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:600
+msgid "Unable to run the export. Refresh the page and try again"
+msgstr "Nemůže běžet export. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:599
+msgid "Unable to start the export. Refresh the page and try again"
+msgstr "Nemohu spustit export. Obnovte stránku a zkuste to znovu"
+
+#: lib/controller/class-ai1wm-main-controller.php:596
+msgid "You are about to stop exporting your website, are you sure?"
+msgstr "Opravdu chcete zastavit export webové stránky?"
+
+#: functions.php:1379
+msgid "Unable to authenticate the secret key. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu ověřit tajný klíč. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:1216
+msgid "Unable to get current pointer position of %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu získat aktuální pozici ukazatele na %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:1199
+msgid "Unable to seek to offset %d on %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu se přemístit offset %d z %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:1182
+msgid "Unable to read file: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu číst soubor: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:1163
+msgid "Out of disk space. Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Technical details</a>"
+msgstr "Nedostatek místa na disku. Nemohu zapsat do: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:1159
+msgid "Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Nelze psát: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:1140
+msgid "Unable to open %s with mode %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu otevřít %s v modu %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:59 functions.php:78
+msgid "Invalid archive path. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Neplatná cesta archivu. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:54 functions.php:73
+msgid "Unable to locate archive path. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu najít cestu archivu. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technické detaily</a>"
+
+#: functions.php:34
+msgid "Unable to locate storage path. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Nemohu lokalizovat cestu úložiště. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Technické detaily</a>"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:94
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:104
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:229
+msgid "You will need to create this folder and grant it read/write/execute permissions (0777) for the All in One WP Migration plugin to function properly."
+msgstr "Budete muset vytvořit tuto složku a udělit ji oprávnění (0777) read/write/execute pro správné fungování pluginu All in One WP Migration."
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:93
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:103
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:228
+msgid "All in One WP Migration is not able to create <strong>%s</strong> folder."
+msgstr "All in One WP Migration není schopný až vytvořit složku <strong>%s</strong>."
+
+#: lib/view/common/leave-feedback.php:62 lib/view/common/report-problem.php:42
+msgid "I agree that by filling in the contact form with my data, I authorize All-in-One WP Migration to use my <strong>email</strong> to reply to my requests for information. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Privacy policy</a>"
+msgstr "Souhlasím s tím, že vyplněním kontaktního formuláře s mými údaji, jsem autorizovat All-in-One WP Migration k používání mého <strong>e-mailu</strong> k odpovědím na mé žádosti o informace. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Zásady ochrany osobních údajů</a>"
+
+#: lib/model/export/class-ai1wm-export-config.php:154
+msgid "Done preparing configuration file."
+msgstr "Hotová příprava konfiguračního souboru."
+
+#: lib/model/export/class-ai1wm-export-config.php:32
+msgid "Preparing configuration file..."
+msgstr "Připravování konfiguračního souboru..."
+
+#: lib/model/export/class-ai1wm-export-config-file.php:69
+msgid "Done archiving configuration file."
+msgstr "Konfigurační soubor byl archivován úspěšně."
+
+#: lib/model/export/class-ai1wm-export-config-file.php:57
+#: lib/model/export/class-ai1wm-export-config-file.php:92
+msgid "Archiving configuration file...<br />%d%% complete"
+msgstr "Archivace konfiguračního souboru...<br />%d%% dokončeno"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:245
+msgid "Example: wp ai1wm restore migration-wp-20170913-095743-931.wpress"
+msgstr "Například: wp ai1wm restore migration-wp-20170913-095743-931.wpress"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:244
+msgid "A valid backup name must be provided in order to proceed with the restore process."
+msgstr "Pro pokračování procesu obnovení musí být k dispozici platný název zálohy."
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:222
+msgid "WPI CLI is not supported in Multisite mode. Please use web interface to restore a backup."
+msgstr "WPI CLI není podporováno v režimu sítě webů. Použijte webový interface pro obnovení zálohy."
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:207
+msgid "Backup location: %s"
+msgstr "Umístění zálohy: %s"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:206
+msgid "Backup complete."
+msgstr "Záloha byla dokončena."
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:116
+msgid "Date created"
+msgstr "Datum vytvoření"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:115
+msgid "Backup name"
+msgstr "Název zálohy"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:87
+msgid "WPI CLI is not supported in Multisite mode. Please use web interface to create a backup."
+msgstr "WPI CLI není podporováno v režimu sítě webů. Použijte webový interface pro založení zálohy."
+
+#: lib/view/backups/index.php:68
+msgid "2GB+"
+msgstr "2GB+"
+
+#: lib/model/import/class-ai1wm-import-validate.php:132
+msgid "Done unpacking archive."
+msgstr "Hotovo rozbalování archivu."
+
+#: lib/model/import/class-ai1wm-import-validate.php:66
+#: lib/model/import/class-ai1wm-import-validate.php:152
+msgid "Unpacking archive...<br />%d%% complete"
+msgstr "Rozbalování archivu...<br />%d%% dokončeno"
+
+#: lib/model/export/class-ai1wm-export-database-file.php:74
+msgid "Done archiving database."
+msgstr "Byla dokončena archivace databáze."
+
+#: lib/model/export/class-ai1wm-export-database-file.php:62
+#: lib/model/export/class-ai1wm-export-database-file.php:97
+msgid "Archiving database...<br />%d%% complete"
+msgstr "Archivace databáze...<br />%d%% dokončeno"
+
+#: lib/model/import/class-ai1wm-import-database.php:74
+#: lib/model/import/class-ai1wm-import-database.php:798
+msgid "Restoring database...<br />%d%% complete"
+msgstr "Obnovení databáze...<br />%d%% dokončeno"
+
+#: lib/model/export/class-ai1wm-export-database.php:61
+#: lib/model/export/class-ai1wm-export-database.php:162
+msgid "Exporting database...<br />%d%% complete"
+msgstr "Export databáze...<br />%d%% dokončeno"
+
+#: lib/model/export/class-ai1wm-export-compatibility.php:31
+#: lib/model/import/class-ai1wm-import-compatibility.php:31
+msgid "Checking extensions compatibility..."
+msgstr "Kontrola kompatibility rozšíření..."
+
+#: lib/model/import/class-ai1wm-import-database.php:778
+msgid "Done restoring database."
+msgstr "Bylo dokončeno obnovení databáze."
+
+#: lib/controller/class-ai1wm-main-controller.php:687
+#: lib/controller/class-ai1wm-main-controller.php:790
+msgid "Preparing to import..."
+msgstr "Připravuji import..."
+
+#: lib/controller/class-ai1wm-main-controller.php:935
+msgid "Monthly"
+msgstr "Měsíčně"
+
+#: lib/controller/class-ai1wm-main-controller.php:931
+msgid "Weekly"
+msgstr "Týdně"
+
+#: lib/view/export/advanced-settings.php:73
+msgid "Do <strong>not</strong> export must-use plugins (files)"
+msgstr "<strong>Neexportujte</strong> používané pluginy (soubory)"
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:50
+msgid "Done activating mu-plugins."
+msgstr "Aktivování mu-pluginů hotovo."
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:31
+msgid "Activating mu-plugins..."
+msgstr "Aktivování mu-pluginů..."
+
+#: lib/view/import/index.php:41
+msgid "Use the box below to upload a wpress file."
+msgstr "Použít box níže pro nahrání wpress souboru."
+
+#: lib/view/export/advanced-settings.php:64
+msgid "Do <strong>not</strong> export inactive themes (files)"
+msgstr "<strong>Ne</strong>exportovat neaktivní vzhledy (soubory)"
+
+#: lib/view/export/advanced-settings.php:110
+msgid "Do <strong>not</strong> replace email domain (sql)"
+msgstr "<strong>Ne</strong>nahrazovat emailovou doménu (sql)"
+
+#: lib/view/export/advanced-settings.php:88
+msgid "Do <strong>not</strong> export inactive plugins (files)"
+msgstr "<strong>Ne</strong>exportovat neaktivní pluginy (soubory)"
+
+#: lib/model/import/class-ai1wm-import-upload.php:100
+msgid "Unrecognized error %s during upload."
+msgstr "Nastala nerozpoznaná chyba %s  při nahrávání."
+
+#: lib/model/import/class-ai1wm-import-upload.php:94
+msgid "A PHP extension stopped the file upload."
+msgstr "PHP rozšíření zastavilo nahrávání souboru."
+
+#: lib/model/import/class-ai1wm-import-upload.php:89
+msgid "Failed to write file to disk."
+msgstr "Zapisování souboru na disk selhalo."
+
+#: lib/model/import/class-ai1wm-import-upload.php:84
+msgid "Missing a temporary folder."
+msgstr "Chybí dočasná složka."
+
+#: lib/model/import/class-ai1wm-import-upload.php:79
+msgid "The file is too large, retrying with smaller size."
+msgstr "Soubor je příliš velký, zkouším to znovu s menší velikostí."
+
+#: lib/model/import/class-ai1wm-import-upload.php:66
+msgid "Unable to upload the file because %s"
+msgstr "Soubor nešel nahrát, protože %s"
+
+#: lib/model/import/class-ai1wm-import-upload.php:45
+msgid "Missing tmp_name in upload file."
+msgstr "Chybějící tmp_name v souboru pro nahrání.."
+
+#: lib/model/import/class-ai1wm-import-upload.php:38
+msgid "Missing error key in upload file."
+msgstr "Chybějící error key v souboru pro nahrání."
+
+#: lib/model/import/class-ai1wm-import-upload.php:31
+msgid "Missing upload file."
+msgstr "Chybí soubor pro nahrání."
+
+#: lib/view/export/advanced-settings.php:65
+#: lib/view/export/advanced-settings.php:89
+#: lib/view/export/advanced-settings.php:96
+msgid "new"
+msgstr "nové"
+
+#: lib/view/export/advanced-settings.php:95
+msgid "Do <strong>not</strong> export cache (files)"
+msgstr "<strong>Ne</strong>exportovat cache (soubory)"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:124
+msgid "Done preparing blogs."
+msgstr "Připravování blogů hotovo."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:113
+msgid "Unable to import <strong>WordPress Network</strong> into WordPress <strong>Single</strong> site."
+msgstr "Nemohu importovat<strong>WordPress síť</strong> do WordPress <strong>Single</strong> webu."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:108
+msgid "At least <strong>one WordPress</strong> site should be presented in the archive."
+msgstr "Nejméně <strong>jedna WordPress</strong> stránka by měla být přítomná v archivu."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:103
+msgid "The archive should contain <strong>Single WordPress</strong> site! Please revisit your export settings."
+msgstr "Archiv by měl obsahovat <strong>Jednu WordPress</strong> stránku! Znovu navštivte nastavení exportu."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:31
+msgid "Preparing blogs..."
+msgstr "Připravování blogů..."
+
+#: lib/model/class-ai1wm-report.php:46
+msgid "Please accept report term conditions."
+msgstr "Přijměte podmínky pro Reporty."
+
+#: lib/model/class-ai1wm-feedback.php:64 lib/model/class-ai1wm-report.php:60
+msgid "Something went wrong: %s"
+msgstr "Něco se pokazilo: %s"
+
+#: lib/model/class-ai1wm-feedback.php:49
+msgid "Please accept feedback term conditions."
+msgstr "¨Přijměte podmínky pro Zpětnou Vazbu."
+
+#: lib/model/class-ai1wm-feedback.php:47 lib/model/class-ai1wm-report.php:44
+msgid "Please enter comments in the text area."
+msgstr "Vlože komentář do textové oblasti."
+
+#: lib/model/class-ai1wm-feedback.php:45 lib/model/class-ai1wm-report.php:42
+msgid "Your email is not valid."
+msgstr "Tvůj email není platný."
+
+#: lib/model/class-ai1wm-feedback.php:43
+msgid "Feedback type is not valid."
+msgstr "Typ zpětné vazby je neplatný."
+
+#: lib/view/updater/modal.php:51
+msgid "There is an update available. To update, you must enter your"
+msgstr "Je dostupná aktualizace. Pro aktualizaci musíte vložit"
+
+#: lib/view/updater/modal.php:44
+msgid "Discard"
+msgstr "Zahodit"
+
+#: lib/view/updater/modal.php:42
+msgid "Save"
+msgstr "Uložit"
+
+#: lib/view/updater/modal.php:38
+msgid "here"
+msgstr "zde"
+
+#: lib/view/updater/modal.php:37
+msgid "Don't have a Purchase ID? You can find your Purchase ID"
+msgstr "Nemáte ID nákupu? Můžete najít ID nákupu"
+
+#: lib/view/updater/modal.php:33 lib/view/updater/modal.php:52
+msgid "Purchase ID"
+msgstr "ID nákupu"
+
+#: lib/view/updater/modal.php:30
+msgid "To update your plugin/extension to the latest version, please fill your Purchase ID below."
+msgstr "Aktualizovat Váš plugin/rozšíření na nejnovější verzi, vyplňte ID nákupu níže."
+
+#: lib/view/updater/modal.php:29
+msgid "Enter your Purchase ID"
+msgstr "Vložte ID nákupu"
+
+#: lib/controller/class-ai1wm-main-controller.php:846
+#: lib/view/updater/check.php:27
+msgid "Check for updates"
+msgstr "Zkontrolovat aktualizace"
+
+#: lib/view/main/get-support.php:27
+msgid "Get Support"
+msgstr "Získat podporu"
+
+#. Author of the plugin/theme
+msgid "ServMask"
+msgstr "ServMask"
+
+#. Description of the plugin/theme
+msgid "Migration tool for all your blog data. Import or Export your blog content with a single click."
+msgstr "Migrační nástroj pro všechna data blogu. Importujte nebo exportujte obsah blogu jediným kliknutím."
+
+#. #-#-#-#-#  all-in-one-wp-migration-code.pot (All-in-One WP Migration 6.77) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  all-in-one-wp-migration-code.pot (All-in-One WP Migration 6.77) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://servmask.com/"
+msgstr "https://servmask.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "All-in-One WP Migration"
+msgstr "All-in-One WP Migration"
+
+#: lib/view/import/index.php:33
+msgid "Import Site"
+msgstr "Importovat Stránku"
+
+#: lib/view/import/import-buttons.php:71
+msgid "Unlimited"
+msgstr "Neomezeno"
+
+#: lib/view/import/import-buttons.php:67
+msgid "Get unlimited"
+msgstr "Získat neomezeno"
+
+#: lib/view/import/import-buttons.php:61
+msgid "Maximum upload file size:"
+msgstr "Maximální velikost souboru pro nahrání:"
+
+#: lib/view/import/import-buttons.php:40
+msgid "Import From"
+msgstr "Importovat z"
+
+#: lib/view/import/import-buttons.php:36
+msgid "Drag & Drop to upload"
+msgstr "Přetáhněte soubor pro nahrání"
+
+#: lib/view/export/index.php:33
+msgid "Export Site"
+msgstr "Exportovat Stránku"
+
+#: lib/view/export/help-section.php:47
+msgid "Once the file is successfully downloaded on your computer, you can import it to any of your WordPress sites."
+msgstr "Jakmile je soubor úspěšně stažen do počítače, můžete jej importovat na některý z vašich WordPress stránek."
+
+#: lib/view/export/help-section.php:43
+msgid "Press \"Export\" button and the site archive file will pop up in your browser."
+msgstr "Klikněte na tlačítko \"Exportovat\" a ve vašem prohlížeči se objeví archivační soubor."
+
+#: lib/view/export/help-section.php:39
+msgid "In the advanced settings section you can configure more precisely the way of exporting."
+msgstr "V sekci pokročilých nastavení můžete přesněji konfigurovat způsob exportu."
+
+#: lib/view/export/help-section.php:33
+msgid "Quick hints"
+msgstr "Rychlé rady"
+
+#: lib/view/export/help-section.php:29
+msgid "You can then use the import functionality provided by this plugin to import the zipped file onto any other WordPress sites that you have administrator access to."
+msgstr "Potom můžete použít funkci importu a nahrát tímto pluginem soubor ZIP na libovolnou WordPress stránku, ke které máte administrátorský přístup."
+
+#: lib/view/export/help-section.php:28
+msgid "This screen allows you to export database, media files, themes and plugins as one zipped file."
+msgstr "Tato obrazovka umožňuje exportovat databázi, mediální soubory, vzhledy a pluginy jako jeden zip soubor."
+
+#: lib/view/export/find-replace.php:48
+msgid "Add"
+msgstr "Přidat"
+
+#: lib/view/export/find-replace.php:35
+msgid "in the database"
+msgstr "v databázi"
+
+#: lib/view/export/find-replace.php:34
+msgid "<another-text>"
+msgstr "<another-text>"
+
+#: lib/view/export/find-replace.php:33 lib/view/export/find-replace.php:41
+msgid "Replace with"
+msgstr "Nahradit s"
+
+#: lib/view/export/find-replace.php:32
+msgid "<text>"
+msgstr "<text>"
+
+#: lib/view/export/find-replace.php:31 lib/view/export/find-replace.php:40
+msgid "Find"
+msgstr "Najít"
+
+#: lib/view/export/export-buttons.php:31
+msgid "Export To"
+msgstr "Exportovat do"
+
+#: lib/view/export/button-file.php:27 lib/view/import/button-file.php:28
+msgid "File"
+msgstr "Soubor"
+
+#: lib/view/export/advanced-settings.php:104
+msgid "Do <strong>not</strong> export database (sql)"
+msgstr "<strong>Ne</strong>exportovat databázi (sql)"
+
+#: lib/view/export/advanced-settings.php:80
+msgid "Do <strong>not</strong> export plugins (files)"
+msgstr "<strong>Ne</strong>exportovat pluginy (soubory)"
+
+#: lib/view/export/advanced-settings.php:56
+msgid "Do <strong>not</strong> export themes (files)"
+msgstr "<strong>Ne</strong>exportovat vzhledy (soubory)"
+
+#: lib/view/export/advanced-settings.php:50
+msgid "Do <strong>not</strong> export media library (files)"
+msgstr "<strong>Ne</strong>exportovat mediální knihovnu (soubory)"
+
+#: lib/view/export/advanced-settings.php:44
+msgid "Do <strong>not</strong> export post revisions"
+msgstr "<strong>Ne</strong>exportovat revize příspěvků"
+
+#: lib/view/export/advanced-settings.php:38
+msgid "Do <strong>not</strong> export spam comments"
+msgstr "<strong>Ne</strong>exportovat spamové komentáře"
+
+#: lib/view/export/advanced-settings.php:32
+msgid "(click to expand)"
+msgstr "(kliknutím rozbalíte)"
+
+#: lib/view/export/advanced-settings.php:31
+msgid "Advanced options"
+msgstr "Pokročilé možnosti"
+
+#: lib/view/common/share-buttons.php:63
+msgid "Tweet"
+msgstr "Tweetnout"
+
+#: lib/view/common/report-problem.php:37
+msgid "Please describe your problem here.."
+msgstr "Zde popiš svůj problém, prosím..."
+
+#: lib/view/common/report-problem.php:30
+msgid "Report issue"
+msgstr "Nahlásit problém"
+
+#: lib/view/common/leave-feedback.php:67 lib/view/common/report-problem.php:47
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: lib/view/common/leave-feedback.php:70 lib/view/common/report-problem.php:50
+msgid "Send"
+msgstr "Odeslat"
+
+#: lib/view/common/leave-feedback.php:57
+msgid "Leave plugin developers any feedback here.."
+msgstr "Zanechej zpětnou vazbu vývojářům pluginu zde..."
+
+#: lib/view/common/leave-feedback.php:54 lib/view/common/report-problem.php:34
+msgid "Enter your email address.."
+msgstr "Zadej svou emailovou adresu..."
+
+#: lib/view/common/leave-feedback.php:47
+msgid "I need help with this plugin"
+msgstr "Potřebuji pomoci s tímto pluginem"
+
+#: lib/view/common/leave-feedback.php:40
+msgid "I have ideas to improve this plugin"
+msgstr "Mám nápad, jak vylepšit tento plugin"
+
+#: lib/view/common/leave-feedback.php:33
+msgid "I would like to review this plugin"
+msgstr "Chtěl bych napsat recenzi na tento plugin"
+
+#: lib/view/backups/index.php:133 lib/view/export/index.php:64
+#: lib/view/import/index.php:63
+msgid "Leave Feedback"
+msgstr "Zanechat zpětnou vazbu"
+
+#: lib/view/backups/index.php:99
+msgid "Create backup"
+msgstr "Vytvořit zálohu"
+
+#: lib/view/backups/index.php:94
+msgid "There are no backups available at this time, why not create a new one?"
+msgstr "V tuto chvíli nejsou k dispozici žádné zálohy, proč nevytvořit novou?"
+
+#: lib/view/backups/index.php:84
+msgid "Delete"
+msgstr "Smazat"
+
+#: lib/view/backups/index.php:80
+msgid "Restore"
+msgstr "Obnovit"
+
+#: lib/view/backups/index.php:76
+msgid "Download"
+msgstr "Stáhnout"
+
+#: lib/vendor/servmask/command/class-ai1wm-wp-cli-command.php:117
+#: lib/view/backups/index.php:47
+msgid "Size"
+msgstr "Velikost"
+
+#: lib/view/backups/index.php:46
+msgid "Date"
+msgstr "Datum"
+
+#: lib/view/backups/index.php:45
+msgid "Name"
+msgstr "Název"
+
+#: lib/model/import/class-ai1wm-import-done.php:191
+msgid "Your data has been imported successfully!"
+msgstr "Tvá data byla úspěšně importována!"
+
+#: lib/model/import/class-ai1wm-import-content.php:79
+#: lib/model/import/class-ai1wm-import-content.php:171
+msgid "Restoring %d files...<br />%d%% complete"
+msgstr "Obnovování %d souborů...<br />%d%% hotovo"
+
+#: lib/model/export/class-ai1wm-export-download.php:31
+msgid "Renaming exported file..."
+msgstr "Přejmenovávání exportovaného souboru..."
+
+#: lib/model/export/class-ai1wm-export-database.php:139
+msgid "Done exporting database."
+msgstr "Exportování databáze bylo úspěšné."
+
+#: lib/model/export/class-ai1wm-export-content.php:76
+#: lib/model/export/class-ai1wm-export-content.php:115
+msgid "Archiving %d files...<br />%d%% complete"
+msgstr "Archivace %d souborů...<br />%d%% dokončeno"
+
+#: lib/model/export/class-ai1wm-export-enumerate.php:133
+#: lib/model/import/class-ai1wm-import-enumerate.php:46
+msgid "Done retrieving a list of all WordPress files."
+msgstr "Hotovo načítání seznamu všech souborů WordPress."
+
+#: lib/model/export/class-ai1wm-export-enumerate.php:45
+#: lib/model/import/class-ai1wm-import-enumerate.php:31
+msgid "Retrieving a list of all WordPress files..."
+msgstr "Načítání seznamu všech souborů WordPress..."
+
+#: lib/model/export/class-ai1wm-export-archive.php:38
+msgid "Done creating an empty archive."
+msgstr "Prázdný archiv byl úspěšně vytvořen."
+
+#: lib/model/export/class-ai1wm-export-archive.php:31
+msgid "Creating an empty archive..."
+msgstr "Vytváření prázdného archivu..."
+
+#: lib/controller/class-ai1wm-main-controller.php:491
+#: lib/controller/class-ai1wm-main-controller.php:492
+#: lib/view/backups/index.php:33
+msgid "Backups"
+msgstr "Zálohy"
+
+#: lib/controller/class-ai1wm-main-controller.php:481
+#: lib/controller/class-ai1wm-main-controller.php:482
+msgid "Import"
+msgstr "Importovat"
+
+#: lib/controller/class-ai1wm-main-controller.php:471
+#: lib/controller/class-ai1wm-main-controller.php:472
+msgid "Export"
+msgstr "Exportovat"
+
+#: lib/view/main/multisite-notice.php:38
+msgid "Get multisite"
+msgstr "Získat síť webů"
+
+#: lib/controller/class-ai1wm-import-controller.php:88
+#: lib/controller/class-ai1wm-import-controller.php:89
+#: lib/controller/class-ai1wm-main-controller.php:688
+#: lib/controller/class-ai1wm-main-controller.php:791
+msgid "Unable to import"
+msgstr "Nelze importovat"
+
+#: lib/controller/class-ai1wm-export-controller.php:84
+#: lib/controller/class-ai1wm-export-controller.php:85
+#: lib/controller/class-ai1wm-main-controller.php:598
+msgid "Unable to export"
+msgstr "Nelze exportovat"

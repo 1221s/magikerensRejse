@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Theme demo data were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://mr.1221s.com
+Data file = /customers/e/d/c/1221s.com/httpd.www/mr/wp-content/themes/onecom-acupuncture-clinic/importer/content.xml
+Widget file = /customers/e/d/c/1221s.com/httpd.www/mr/wp-content/uploads/2019/03/demo-widgets-import-file_2019-03-29__09-00-59.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - GET IN TOUCH - Imported
+
+Footer 2 : 
+
+Text - Open hours - Imported
+
+Footer 3 : 
+
+Social Icons - Follow Us - Imported
+
+
+
+---pt-ocdi/after_import---
+

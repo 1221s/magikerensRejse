@@ -1,0 +1,244 @@
+# Translation of Plugins - Menu Icons by ThemeIsle - Development (trunk) in Czech
+# This file is distributed under the same license as the Plugins - Menu Icons by ThemeIsle - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-21 13:24:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Menu Icons by ThemeIsle - Development (trunk)\n"
+
+#: includes/settings.php:739
+msgid "Get Our Free Email Course"
+msgstr "Získejte náš bezplatný emailový kurz"
+
+#: includes/settings.php:742
+msgid "Unable to Subscribe."
+msgstr "Zrušit předplatné"
+
+#: includes/settings.php:741
+msgid "Thank you for subscribing! You have been added to the mailing list and will receive the next email information in the coming weeks. If you ever wish to unsubscribe, simply use the \"Unsubscribe\" link included in each newsletter."
+msgstr "Děkujeme za zakoupení předplatného! Váš email byl zaregistrován a budeme vám posílat oznámení. Pokud si přejete zrušit předplatné, klikněte na \"Zrušit předplatné\"."
+
+#: includes/settings.php:740
+msgid "Ready to learn how to reduce your website loading times by half? Come and join the 1st lesson here!"
+msgstr "Jste připraveni se naučit, jak zrychlit načítání vašeho webu až o polovinu? Připojte se do našeho prvotního kurzu!"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/Codeinwp/wp-menu-icons"
+msgstr "https://github.com/Codeinwp/wp-menu-icons"
+
+#: includes/settings.php:782
+msgid "the customizer"
+msgstr "editor"
+
+#: includes/settings.php:777
+msgid "Please note that the actual look of the icons on the front-end will also be affected by the style of your active theme. You can add your own CSS using %2$s or a plugin such as %3$s if you need to override it."
+msgstr "Vezměte prosím na vědomí, že skutečný vzhled ikon na předním panelu bude také ovlivněn stylem vašeho aktivního motivu. Můžete přidat vlastní CSS pomocí %2$s nebo plugin jako je %3$s pokud jej potřebujete přepsat."
+
+#: menu-icons.php:167
+msgid "Looks like Menu Icons was installed via Composer. Please activate Icon Picker first."
+msgstr "Vypadá to, že Menu Icons byl nainstalován spolu s pluginem Composer. Prosím aktivujte si jako první Icon Picker."
+
+#: includes/settings.php:773
+msgid "Change"
+msgstr "Změna"
+
+#: includes/settings.php:579
+msgid "SVG Width"
+msgstr "SVG šířka"
+
+#: includes/picker.php:75
+msgid "Type"
+msgstr "Typ"
+
+#. Description of the plugin
+msgid "Spice up your navigation menus with pretty icons, easily."
+msgstr "Snadno si vylepšíte navigační nabídky pěknými ikonami."
+
+#. Plugin Name of the plugin
+msgid "Menu Icons"
+msgstr "Menu Icons"
+
+#: menu-icons.php:138
+msgid "Menu Icons: No registered icon types found."
+msgstr "Menu Icons: Nenalezeny žádné ikony."
+
+#: includes/settings.php:590
+msgid "Image Size"
+msgstr "Velikost obrázku"
+
+#: includes/library/functions.php:82
+msgid "Full Size"
+msgstr "Plná velikost"
+
+#: includes/library/functions.php:81
+msgid "Large"
+msgstr "Velký"
+
+#: includes/library/functions.php:80
+msgid "Medium"
+msgstr "Střední"
+
+#: includes/library/functions.php:79
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: includes/settings.php:561
+msgid "Sub"
+msgstr "Pod"
+
+#: includes/settings.php:557
+msgid "Bottom"
+msgstr "Dole"
+
+#: includes/settings.php:553
+msgid "Text Bottom"
+msgstr "Text dolů"
+
+#: includes/settings.php:549
+msgid "Baseline"
+msgstr "Baseline"
+
+#: includes/settings.php:545
+msgid "Middle"
+msgstr "Střed"
+
+#: includes/settings.php:541
+msgid "Text Top"
+msgstr "Horní hrana"
+
+#: includes/settings.php:537
+msgid "Top"
+msgstr "Nahoře"
+
+#: includes/settings.php:533
+msgid "Super"
+msgstr "Super"
+
+#: includes/settings.php:528
+msgid "Vertical Align"
+msgstr "Vertikální zarovnání"
+
+#: includes/settings.php:568
+msgid "Font Size"
+msgstr "Velikost písma"
+
+#: includes/settings.php:419
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: includes/settings.php:410
+msgid "Reset"
+msgstr "Obnovit"
+
+#: includes/settings.php:409
+msgid "Discard all changes and reset to default state"
+msgstr "Zrušte všechny změny a obnovte výchozí stav"
+
+#: includes/settings.php:367 includes/settings.php:390
+msgid "Extensions"
+msgstr "Rozšíření"
+
+#: includes/settings.php:470
+msgid "\"%s\" menu settings"
+msgstr "\"%s\" nastavení nabídky"
+
+#: includes/settings.php:468
+msgid "Current Menu"
+msgstr "Současná nabídka"
+
+#: includes/settings.php:452
+msgid "Icon Types"
+msgstr "Typy ikon"
+
+#: includes/settings.php:447
+msgid "Global settings"
+msgstr "Globální nastavení"
+
+#: includes/settings.php:446
+msgid "Global"
+msgstr "Globální"
+
+#: includes/settings.php:521
+msgid "After"
+msgstr "Po"
+
+#: includes/settings.php:517
+msgid "Before"
+msgstr "Před"
+
+#: includes/settings.php:512
+msgid "Position"
+msgstr "Pozice"
+
+#: includes/settings.php:505
+msgid "Yes"
+msgstr "Ano"
+
+#: includes/settings.php:501
+msgid "No"
+msgstr "Ne"
+
+#: includes/settings.php:496
+msgid "Hide Label"
+msgstr "Skrýt štítek"
+
+#: includes/settings.php:295
+msgid "Menu Icons Settings"
+msgstr "Nastavení ikon menu"
+
+#: includes/settings.php:330
+msgid "<strong>Menu Icons Settings</strong> have been successfully reset."
+msgstr "<strong>Nastavení ikon nabídky</strong> bylo úspěšně obnoveno."
+
+#: includes/settings.php:329
+msgid "<strong>Menu Icons Settings</strong> have been successfully updated."
+msgstr "<strong>Nastavení ikon nabídky</strong> bylo úspěšně aktualizováno."
+
+#: includes/library/form-fields.php:152
+msgid "%1$s: Type %2$s is not supported, reverting to text."
+msgstr "%1$s: Typ %2$s není podporován, vraťte se k textu."
+
+#: includes/picker.php:80 includes/picker.php:178
+msgid "Icon"
+msgstr "Ikona"
+
+#: includes/settings.php:772 includes/picker.php:130
+msgid "Remove"
+msgstr "Smazat"
+
+#: includes/picker.php:128
+msgid "Icon:"
+msgstr "Ikona:"
+
+#: includes/settings.php:775
+msgid "Preview"
+msgstr "Náhled"
+
+#: includes/settings.php:774
+msgid "All"
+msgstr "Vše"
+
+#: includes/settings.php:771 includes/picker.php:129
+msgid "Select"
+msgstr "Vybrat"
+
+#: includes/settings.php:770
+msgid "Select Icon"
+msgstr "Vyberte ikonu"
+
+#: includes/library/form-fields.php:528
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Vybrat &mdash;"
